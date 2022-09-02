@@ -2,7 +2,6 @@
 
 `Frontend:`
 - Redux
-- Antd
 - Formik
 - React Router
 - Socket.IO

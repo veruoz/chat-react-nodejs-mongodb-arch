@@ -3,15 +3,13 @@ import ReactDOM from 'react-dom';
 import App from './App';
 
 import './styles/index.scss';
-import {BrowserRouter as Router} from "react-router-dom";
-import {createBrowserHistory} from "history";
-const history = createBrowserHistory();
+import {BrowserRouter} from "react-router-dom";
 
 ReactDOM.render(
     <React.StrictMode>
-        <Router history={history}>
+        <BrowserRouter>
         <App/>
-        </Router>
+        </BrowserRouter>
     </React.StrictMode>,
     document.getElementById('root')
 );

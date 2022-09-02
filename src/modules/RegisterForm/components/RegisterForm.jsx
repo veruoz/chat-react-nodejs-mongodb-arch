@@ -15,7 +15,7 @@ class RegisterForm extends Component {
                   <p>To enter the chat, you need to register</p>
               </div>
               <Block>
-                  {success ? (
+                  {!success ? (
                       <Form
                       name="normal_login"
                       className="login-form"
@@ -74,7 +74,7 @@ class RegisterForm extends Component {
                   </Form>) : (
                       <div className="auth__success-block">
                           <ExclamationCircleTwoTone style={{ fontSize: '50px'}} />
-                          <h3>Verify your account</h3>
+                          <h2>Verify your account</h2>
                           <p>An email has been sent to your email address with a link to verify your account.</p>
                       </div>
                   )}

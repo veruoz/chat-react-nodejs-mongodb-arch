@@ -1,3 +1,3 @@
-import LoginForm from '../components/RegisterForm'
+import RegisterForm from "../components/RegisterForm";
 
-export default LoginForm
+export default RegisterForm
