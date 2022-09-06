@@ -11,7 +11,7 @@ const Button = (props) => (
     })}/>
 );
 
-Button.protoTypes = {
+Button.propTypes = {
     className: PropTypes.string
 }
 

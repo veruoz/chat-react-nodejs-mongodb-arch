@@ -18,7 +18,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mikhail Guryanov/Desktop/templates/coding/Archakov Blog/chat-react-nodejs-frontend_2019&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mikhail Guryanov/Desktop/templates/coding/Archakov Blog/chat-react-nodejs-frontend_2019/src/modules/RegisterForm/containers&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
@@ -27,6 +27,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mikhail Guryanov\Desktop\templates\coding\Archakov Blog\chat-react-nodejs-frontend_2019\src\modules\RegisterForm\containers" />
       <recent name="C:\Users\Mikhail Guryanov\Desktop\templates\coding\Archakov Blog\chat-react-nodejs-frontend_2019\src\components" />
       <recent name="C:\Users\Mikhail Guryanov\Desktop\templates\coding\Archakov Blog\chat-react-nodejs-frontend_2019\src\modules\RegisterForm" />
       <recent name="C:\Users\Mikhail Guryanov\Desktop\templates\coding\Archakov Blog\chat-react-nodejs-frontend_2019\src\pages\Home" />
@@ -70,7 +71,9 @@
       <workItem from="1649000602975" duration="1118000" />
       <workItem from="1649021932597" duration="1226000" />
       <workItem from="1662052518712" duration="8553000" />
-      <workItem from="1662106544798" duration="1500000" />
+      <workItem from="1662106544798" duration="25373000" />
+      <workItem from="1662304188642" duration="6623000" />
+      <workItem from="1662387685702" duration="10928000" />
     </task>
     <servers />
   </component>
